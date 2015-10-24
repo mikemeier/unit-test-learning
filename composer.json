@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Ibrows\\PHPUnit\\Learn\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^4.0"
+    }
+}
